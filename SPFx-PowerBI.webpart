@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+    <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+        <metaData>
+            <type name="Microsoft.SharePoint.WebPartPages.ClientSideWebPart, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"></type>
+            <importErrorMessage>Cannot import this Web Part</importErrorMessage>
+        </metaData>
+        <data>
+            <properties>
+                <property name="Description" type="string">Include a Power BI report on your page.</property>
+                <property name="Title" type="string">Power BI (preview)</property>
+                <property name="ClientSideWebPartData" type="string"></property>
+                <property name="ClientSideWebPartId" type="">58fcd18b-e1af-4b0a-b23b-422c2c52d5a2</property>
+            </properties>
+        </data>
+    </webPart>
+</webParts>
